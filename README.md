@@ -19,6 +19,7 @@ Compatible:
  
 
 Features:
+
     - NOTE: No need to update this application once it is running.  
 		- Updates to scheduler.xml are processed instantly.
 	– Run any command/batch script, program, program shortcut, or executable
