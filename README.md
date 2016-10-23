@@ -1,5 +1,6 @@
-“RUNNY” – WINDOWS APP SCHEDULE AUTOMATION TOOL
- – Basically, this is an alternative to Windows Task Scheduler
+â€œRUNNYâ€ â€“ WINDOWS APP SCHEDULE AUTOMATION TOOL
+
+ - Basically, this is an alternative to Windows Task Scheduler
 This is a very simple, light weight, straightforward, alternative to Windows Task Scheduler.
  - I use it for automating things on the fly and quickly
  
@@ -22,24 +23,24 @@ Features:
 
     - NOTE: No need to restart this application once it is running.  
 		- Updates to scheduler.xml are processed instantly.
-	– Run any command/batch script, program, program shortcut, or executable
-	– No app “updater” callbacks to a server to for app version updates
-	– App runs as an application, not a service
-	– Small memory footprint (around 26 KB)
-	– App runs as system administrator
-	– Easily configure app easily with XML config file
-	– Config file updates are picked up without restarting the application
+	â€“ Run any command/batch script, program, program shortcut, or executable
+	â€“ No app â€œupdaterâ€ callbacks to a server to for app version updates
+	â€“ App runs as an application, not a service
+	â€“ Small memory footprint (around 26 KB)
+	â€“ App runs as system administrator
+	â€“ Easily configure app easily with XML config file
+	â€“ Config file updates are picked up without restarting the application
     
-	– Per XML job, set:
+	â€“ Per XML job, set:
 
-		– start date – start a command at a future date (Month/Day/Year): 01/01/2015
-		– end date – run command to expiration date (Month/Day/Year): 01/01/2012
-		– time – format: hour:minute:second (example midnight/12am: 00:00:00)
-		– day – 1,2,3,4,5,6,7 (aka: Sun,Mon,Tues,Wed,Thurs,Fri,Sat)
-		– loop – 1 = on, 0 = off, default = 1
-		– command – command to run, example: start “” “c:\test.cmd”
-		– commandparams – for if separating out command parameters
-		– comment – job description
+		â€“ start date â€“ start a command at a future date (Month/Day/Year): 01/01/2015
+		â€“ end date â€“ run command to expiration date (Month/Day/Year): 01/01/2012
+		â€“ time â€“ format: hour:minute:second (example midnight/12am: 00:00:00)
+		â€“ day â€“ 1,2,3,4,5,6,7 (aka: Sun,Mon,Tues,Wed,Thurs,Fri,Sat)
+		â€“ loop â€“ 1 = on, 0 = off, default = 1
+		â€“ command â€“ command to run, example: start â€œâ€ â€œc:\test.cmdâ€
+		â€“ commandparams â€“ for if separating out command parameters
+		â€“ comment â€“ job description
    
 Support the developer
 ---
