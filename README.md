@@ -10,7 +10,7 @@ Who is this for?
  
 
 Why use this over Window task scheduler?
- - This application always rubs at the Administrator level.
+ - This application always runs at the Administrator level.
  - This tool works around complexities and UI from Microsoft Task Scheduler.
  
 
